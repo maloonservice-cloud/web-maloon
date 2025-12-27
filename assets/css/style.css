@@ -1,8 +1,8 @@
 :root{
-  /* Tropical light – marine & sustainable */
-  --bg-sky:#eef6fb;
-  --bg-mint:#eaf7f6;
-  --bg-sand:#f6f3ea;
+  --bg-sky:#eef6fb;   /* cielo hielo */
+  --bg-mint:#eaf7f6;  /* aqua muy suave */
+  --bg-sand:#f6f3ea;  /* arena MUY leve (casi gris cálido) */
+}
 
   --text:#06203a;
   --muted:#2b5f7a;
